@@ -6,3 +6,4 @@ Generate a random 14-characters password containing symbols, and copy it to the 
 Save ["GeneratePassword.bat"](https://raw.githubusercontent.com/ymdmkhk/PasswordGenerator-for-Windows/master/GeneratePassword.bat) and run "GeneratePassword.bat".
 
 ## Description
+Internaly use pre-installed "PowerShell" and [".NET Framework Class Library \[System.Web.Security.Membership\]::GeneratePassword"](https://msdn.microsoft.com/ja-jp/library/system.web.security.membership.generatepassword(v=vs.110).aspx).
