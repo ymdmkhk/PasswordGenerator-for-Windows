@@ -9,4 +9,4 @@ Save ["GeneratePassword.bat"](https://raw.githubusercontent.com/ymdmkhk/Password
 Internaly use pre-installed "PowerShell" and [".NET Framework Class Library \[System.Web.Security.Membership\]::GeneratePassword"](https://msdn.microsoft.com/ja-jp/library/system.web.security.membership.generatepassword(v=vs.110).aspx).
 
 ## References
-[WindowsでC#を使用しランダムパスワードを生成する](http://monaski.hatenablog.com/entry/2015/09/29/202421)
+[Windowsでpowershellを使用しランダムなパスワードを生成する](http://monaski.hatenablog.com/entry/2015/09/29/202421)
